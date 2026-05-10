@@ -1,0 +1,6 @@
+# mean = float(input("enter the first point :"))
+# mean2 = float(input("enter the second point :"))
+# print ("average=",(mean + mean2) / 2)
+a = int (input("enter the number 1 :"))
+b = int (input("enter the number 2 :"))
+print ("a>=b", (a>=b))
